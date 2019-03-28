@@ -1,0 +1,130 @@
+Configuration file: /Users/xiaoyiluo/Documents/my-space/code/blog/_config.yml
+[33m       Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `plugins: [jekyll-paginate]` in your configuration file.[0m
+            Source: /Users/xiaoyiluo/Documents/my-space/code/blog
+       Destination: ../_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m           Warning: Excerpt modified in _posts/2019-03-28-es-data-type.md![0m
+[33m                    Found a Liquid block containing the excerpt separator "\n\n". [0m
+[33m                    The block has been modified with the appropriate closing tag.[0m
+[33m                    Feel free to define a custom excerpt or excerpt_separator in the document's front matter if the generated excerpt is unsatisfactory.[0m
+                    done in 2.757 seconds.
+ Auto-regeneration: enabled for '/Users/xiaoyiluo/Documents/my-space/code/blog'
+    Server address: http://127.0.0.1:4000/blog/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2019-03-28 11:58:31
+                    _posts/2019-03-28-es-data-type.md
+[33m           Warning: Excerpt modified in _posts/2019-03-28-es-data-type.md![0m
+[33m                    Found a Liquid block containing the excerpt separator "\n\n". [0m
+[33m                    The block has been modified with the appropriate closing tag.[0m
+[33m                    Feel free to define a custom excerpt or excerpt_separator in the document's front matter if the generated excerpt is unsatisfactory.[0m
+                    ...done in 2.531694 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 11:58:33
+                    _posts/2019-03-28-es-data-type.md
+[33m           Warning: Excerpt modified in _posts/2019-03-28-es-data-type.md![0m
+[33m                    Found a Liquid block containing the excerpt separator "\n\n". [0m
+[33m                    The block has been modified with the appropriate closing tag.[0m
+[33m                    Feel free to define a custom excerpt or excerpt_separator in the document's front matter if the generated excerpt is unsatisfactory.[0m
+                    ...done in 2.59415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 11:59:06
+                    _posts/2019-03-28-es-data-type.md
+[33m           Warning: Excerpt modified in _posts/2019-03-28-es-data-type.md![0m
+[33m                    Found a Liquid block containing the excerpt separator "\n\n". [0m
+[33m                    The block has been modified with the appropriate closing tag.[0m
+[33m                    Feel free to define a custom excerpt or excerpt_separator in the document's front matter if the generated excerpt is unsatisfactory.[0m
+                    ...done in 2.429116 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 11:59:37
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.31283 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 11:59:45
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 3.066318 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 11:59:48
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.653693 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:00:59
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.28974 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:03:17
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.399638 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:04:00
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.394613 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:04:31
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.43053 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:04:59
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.436114 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:05:21
+                    _posts/2019-03-28-es-data-type.md
+[33m           Warning: Excerpt modified in _posts/2019-03-28-es-data-type.md![0m
+[33m                    Found a Liquid block containing the excerpt separator "\n\n". [0m
+[33m                    The block has been modified with the appropriate closing tag.[0m
+[33m                    Feel free to define a custom excerpt or excerpt_separator in the document's front matter if the generated excerpt is unsatisfactory.[0m
+                    ...done in 2.542364 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:05:40
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.374195 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:05:56
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.34475 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:06:04
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.469686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:06:22
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.539335 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:06:46
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.377632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:07:13
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.357749 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:07:15
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.30637 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:08:48
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.327946 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:11:12
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.242146 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:12:47
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.431271 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:13:09
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.444017 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:13:11
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.482363 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-03-28 12:13:33
+                    _posts/2019-03-28-es-data-type.md
+                    ...done in 2.340701 seconds.
+                    
